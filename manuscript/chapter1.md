@@ -1,12 +1,12 @@
-# Chapter 1 
+# Ops Readiness Checklist  
 + Backup up employee laptops. Recommend crashplan
 + Anti-theft for employee laptops, Recommend Prey
 + Using Enterprise password manager and don’t allow people to use the same password for multiple accounts.
 + A staging environment to test changes before they go live.
-+ Searchable logs stored off the server. You need something likelogentries or papertrail to store your web logs for a longer period of time.
++ Searchable logs stored off the server. You need something like logentries or papertrail to store your web logs for a longer period of time.
 + Tracking exceptions.
 + Sending transactional email. Recommend Mandrill.
-+ Database Restore Testing. Notice how I didn't say backups? You need to regularly test that you can restore your database(s) for use with in a different deployment. I recommend doing a database restore from production into staging regularly, so that you know it works. You will be surprised at how many things break the first time you try and do this, and will sleep better when you know that your restore/recovery process is regularly being exercised.
++ Database Restore Testing. Notice how I didn't say backups? You need to regularly test that you can restore your database(s) for use with in a different deployment. I recommend doing a database restore from production into staging regularly, so that you know it works. You will be surprised at how many things break the first time you try to do this, and will sleep better when you know that your restore/recovery process is regularly being exercised.
 + User behavior monitoring. Is anyone using your site? What pages are popular? Recommend segment.io
 + Performance monitoring. Recommend Pingdom to monitor average site load speed. NewRelic to guide developers working on speeding up the app.
 + Availability monitoring. Recommend pingdom
