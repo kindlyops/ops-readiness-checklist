@@ -17,5 +17,5 @@
 + User Feedback. If you really want to engage your customers, give them a way to talk back to you. If you want to send your customers email, why wouldn't you also give them an easy way to send you a comment or question? Customer.io is a great tool for this.
 + DNS. Is your DNS secured with MFA, or is it vulnerable to the first person who can hack your email? Can you track changes made to DNS records over time so that you can revert an incorrect change?
 
-{width=20%}
-![www.kindlyops.com](images/logo.png)
+{width=30%}
+![](images/logo.png)
