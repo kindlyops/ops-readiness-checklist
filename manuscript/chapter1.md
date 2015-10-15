@@ -18,4 +18,4 @@
 + DNS. Is your DNS secured with MFA, or is it vulnerable to the first person who can hack your email? Can you track changes made to DNS records over time so that you can revert an incorrect change?
 
 {width=20%}
-![](images/logo.png)
+![www.kindlyops.com](images/logo.png)
